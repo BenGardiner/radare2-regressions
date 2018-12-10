@@ -52,6 +52,7 @@ diff: type: new
 RUN
 
 NAME=aFr on same but ihex and .r2 script
+BROKEN=1
 FILE=ihex://../bins/microcorruption/tutorial
 CMDS=<<EXPECT
 . ../bins/microcorruption/tutorial.r2
